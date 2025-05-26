@@ -1,4 +1,6 @@
+
 # Add your backend Python dependencies here, for example:
 Django
 djangorestframework
 pymongo
+djongo
